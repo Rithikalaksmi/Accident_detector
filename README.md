@@ -1,4 +1,4 @@
-# VisionX: Accident Detection Project 🚗💥
+# VisionX: Accident Detection Project 
 
 This project, developed for the VISTA VisionX Hackathon, aims to detect potential traffic accidents using computer vision techniques. It utilizes two distinct approaches:
 
